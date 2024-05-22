@@ -1,0 +1,11 @@
+{
+    "header": {
+     "chooseLanguage": "Elige el idioma:  "
+    },
+    "mainSection": {
+        "loginTitle": "Acceso",
+        "Email": "Dirección de correo electrónico",
+        "Password": "Contraseña",
+        "EmailErrorMsg":"Por favor, introduce una dirección de correo electrónico válida."
+    }
+   }

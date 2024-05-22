@@ -1,0 +1,11 @@
+{
+    "header": {
+     "chooseLanguage": "Choose Language:  "
+    },
+    "mainSection": {
+     "loginTitle": "Login",
+     "Email": "Email Address",
+     "Password": "Password",
+     "EmailErrorMsg":"Please enter a valid email address."
+    }
+   }
